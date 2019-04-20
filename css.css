@@ -1,0 +1,29 @@
+img {
+	width: 100%;
+}
+
+.jumbotron {
+	text-align: center;
+	background-color: #E6E6DC;
+	color:#00628B;
+}
+body {
+	padding-top: 20px;
+}
+
+footer {
+	text-align: center
+}
+
+.row
+{
+	
+	padding-bottom: 20px
+}
+
+footer {
+	color: #00628B;
+}
+.material-icons {
+	font-size: 48px;
+}
